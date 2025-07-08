@@ -1,0 +1,1 @@
+The full dataset is not included in this repository due to its large size. However, we provide sample images from both the original dataset and the YOLO-preprocessed version. All images were processed using a YOLO model to extract only the damaged areas, and the dataset was reconstructed accordingly.
