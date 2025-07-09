@@ -26,11 +26,13 @@ Repair Iamge sample:
 ![repair102](https://github.com/user-attachments/assets/0613852a-b1bc-46eb-8aca-7dd525d8393c)
 
 Replace Image sample:
+
 ![replace78](https://github.com/user-attachments/assets/726d131a-e476-4fcb-ad99-8a298ad2c01c)
 
 이처럼 특정 클래스에만 마킹 표시가 존재하였기 때문에, 모델이 마킹 표시에 과적합 될 우려가 존재했습니다. 따라서, 본 연구는 이런 우려를 제거하기 위하여 Object Detection 모델을 활용해 마킹 표시 내 존재하는 손상 부위만 추출하여 다시 데이터셋을 재구축하였습니다.
 
 After YOLO Preprocessing:
+
 ![replace78_crop0](https://github.com/user-attachments/assets/7fb61408-5b99-4bf0-8cc5-9121f81ab542)
 
 ## Approach
