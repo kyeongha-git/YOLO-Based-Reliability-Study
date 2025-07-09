@@ -34,12 +34,11 @@
 
 초기 제공된 데이터셋 구조는 다음과 같았습니다:
 
-Data
-ㄴ Level of Damage
- 
- ㄴ Replace
- 
- ㄴ Repair
+- Data  
+  - Level of Damage  
+    - Replace  
+    - Repair
+
 
 
 🔧 Repair Image Sample:  
