@@ -36,7 +36,9 @@
 
 Data
 ㄴ Level of Damage
+ 
  ㄴ Replace
+ 
  ㄴ Repair
 
 
