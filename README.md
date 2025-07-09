@@ -47,10 +47,9 @@
 🔨 Replace Image Sample:  
 ![replace78](https://github.com/user-attachments/assets/726d131a-e476-4fcb-ad99-8a298ad2c01c)
 
-⚠️ **문제점**: 일부 클래스에는 **마킹 표시(스티커 등)**가 존재하여, 모델이 **표시 자체에 과적합(overfitting)** 될 위험이 있었습니다.  
+⚠️ **문제점**: 일부 클래스에는 마킹 표시(스티커 등)가 존재하여, 모델이 **마킹 자체에 과적합(overfitting)** 될 위험이 있었습니다.  
 
-➡️ 이에 따라, **YOLO 기반 객체 탐지 모델**을 활용하여  
-**손상 부위만 추출(cropping)**한 새로운 데이터셋을 재구축하였습니다.
+➡️ 이에 따라, **YOLO 기반 객체 탐지 모델**을 활용하여 손상 부위만 추출(cropping)한 새로운 데이터셋을 재구축하였습니다.
 
 🔍 After YOLO Preprocessing:  
 ![replace78_crop0](https://github.com/user-attachments/assets/7fb61408-5b99-4bf0-8cc5-9121f81ab542)
